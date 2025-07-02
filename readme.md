@@ -4,11 +4,11 @@
 
 Bonjour, vous trouverez sur ce dépôt :
 
-- Le dossier du projet  
-- Une PSSI  
+- Le dossier du projet regroupant les tâches à réaliser
+- Une PSSI
 - Le powerpoint pour l'examen oral  
 - Une vidéo de démo de pentest  
-- Nos attestations pour le MOOC SecNum de l'ANSSI  
+- Nos attestations pour le MOOC SecNum de l'ANSSI (objectifs bonus)
 
 ## Rappel du sujet
 
