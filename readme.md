@@ -6,6 +6,7 @@ Bonjour, vous trouverez sur ce dépôt :
 
 - Le dossier du projet regroupant les tâches à réaliser
 - Une PSSI
+- Une description de l'infrastructure réseau
 - Le powerpoint pour l'examen oral  
 - Une vidéo de démo de pentest  
 - Nos attestations pour le MOOC SecNum de l'ANSSI (objectifs bonus)
