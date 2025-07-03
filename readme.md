@@ -5,8 +5,8 @@
 Bonjour, vous trouverez sur ce dépôt :
 
 - Le dossier du projet (projet-nuky) regroupant les tâches à réaliser
-- Une PSSI
-- Une description de l'infrastructure réseau
+- Une PSSI en annexe
+- Une description de l'infrastructure réseau en annexe
 - Le powerpoint présenté à l'examen oral  
 - Une vidéo de démo de pentest présenté à l'examen oral
 - Nos attestations pour le MOOC SecNum de l'ANSSI (objectifs bonus)
